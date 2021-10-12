@@ -27,6 +27,7 @@ public class BiggestValueFirstEncounterApplication {
 			} 	
 		} 
 
-		System.out.println(numCount);	 
+		System.out.println(numCount);
+		scan.close();	 
 	}
 }
